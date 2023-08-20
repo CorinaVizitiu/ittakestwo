@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ittakestwo/static/css/main.0c122182.css",
-    "main.js": "/ittakestwo/static/js/main.63e055d2.js",
+    "main.js": "/ittakestwo/static/js/main.b1864a32.js",
     "static/media/s1.png": "/ittakestwo/static/media/s1.61faf2e6dd7c80f20e64.png",
     "static/media/s4.png": "/ittakestwo/static/media/s4.c361a8ac3a9b96aa58c8.png",
     "static/media/s5.png": "/ittakestwo/static/media/s5.a75abfe93a5d8a03bcaf.png",
@@ -32,10 +32,10 @@
     "static/media/revicons.woff": "/ittakestwo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/ittakestwo/index.html",
     "main.0c122182.css.map": "/ittakestwo/static/css/main.0c122182.css.map",
-    "main.63e055d2.js.map": "/ittakestwo/static/js/main.63e055d2.js.map"
+    "main.b1864a32.js.map": "/ittakestwo/static/js/main.b1864a32.js.map"
   },
   "entrypoints": [
     "static/css/main.0c122182.css",
-    "static/js/main.63e055d2.js"
+    "static/js/main.b1864a32.js"
   ]
 }
